@@ -26,6 +26,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+![image](https://github.com/Jayachandran20/Single-server-infinite-capacity---Markov-Model/assets/118447015/d1accd93-8404-4b41-8e6b-45d5d8b2713c)
 
 ## Result :
-
+Hence,the average number of materials in the system and the average number of materials in the conveyor is calculated.Hence,the average number of materials in the system and the average number of materials in the conveyor is calculated.
